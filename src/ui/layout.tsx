@@ -59,6 +59,7 @@ export function Layout({
         <footer>
           <span>© 2026 {product.name}</span>
           <nav aria-label="フッター">
+            <a href="https://tool-shelf.yusuke8h.workers.dev">ほかのツール</a>
             <a href="/privacy">プライバシー</a>
             <a href="https://github.com/yhay81/tag-loom">GitHub</a>
           </nav>
